@@ -3,6 +3,7 @@ number1 = int(input("Enter the first number: "))
 number2 = int(input("Enter the second number: "))
 number3 = int(input("Enter the third number: "))
 
+#the first number is initially assumed to be the largest number
 largest_number = number1
 
 #Check if the second number is larger than the current largest_number and update the largest_number if needed.
